@@ -1,0 +1,23 @@
+body
+{
+background-image: url('bn.jpg');
+background-color:#FBFFC9;
+font-family:Broadway;
+}
+p {color: red;}
+
+h1 {colour:black;}
+span{color:white;
+	font-weight:italic;
+	text-decoration:underline;
+}
+span {text-shadow:2px 2px black;}
+span: hover
+{
+color:blue;
+}
+.second
+{color:green;}
+
+#mypurple
+{color:purple;}
